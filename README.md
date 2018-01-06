@@ -1,2 +1,1 @@
-# metro-best-path-retrieval
-Archive for C++ final project.
+An incomplete archive for C++ final project.
